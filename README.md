@@ -4,7 +4,7 @@
 
 ## Techs:
 
-- Front: HTML5, CSS3, JS, TS, Angular, Ionic, React Native.
+- Front: HTML5, CSS3, JS, TS, Angular, React, Ionic, React Native.
 - Back: NodeJS, ExpressJS, Sequelize / JAVA, Spring Boot, JPA, JDBC / PHP -> Service Web, API REST, API GraphQL
 - DB: MySQL/MariaDB, Sqlite, Postgres, OracleDB, SQL, PL/SQL / MongoDB, CouchDB
 - Docker, Portainer
